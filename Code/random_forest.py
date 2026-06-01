@@ -1,7 +1,3 @@
-# =========================
-# RANDOM FOREST MODEL
-# =========================
-
 import pandas as pd
 import numpy as np
 
