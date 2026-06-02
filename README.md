@@ -71,9 +71,14 @@ HeartFailure_reproducibility/
 │
 ├── data/
 │
-├── Classification of Heart Failure using Machine Learning.docx
+├── report/
+│   ├── Classification of Heart Failure using Machine Learning.docx
+│   └── Classification of Heart Failure using Machine Learning.pdf
 │
-├── life-15-00496.pdf
+├── docs/
+│   └── life-15-00496.pdf
+│
+├── requirements.txt
 │
 └── README.md
 ```
